@@ -42,3 +42,4 @@ Cargo.lock
 # Emulator files
 *.ryujinx/
 *.citron/
+.vscode/branch-timer.json
